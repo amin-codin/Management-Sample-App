@@ -1,0 +1,7 @@
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\process-manager\process-manager\process-manager\bin\Debug\process-manager.exe.config
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\process-manager\process-manager\process-manager\bin\Debug\process-manager.exe
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\process-manager\process-manager\process-manager\bin\Debug\process-manager.pdb
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\process-manager\process-manager\process-manager\obj\Debug\process-manager.csprojAssemblyReference.cache
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\process-manager\process-manager\process-manager\obj\Debug\process-manager.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\process-manager\process-manager\process-manager\obj\Debug\process-manager.exe
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\process-manager\process-manager\process-manager\obj\Debug\process-manager.pdb

@@ -11,3 +11,38 @@ C:\Users\ParsRayaneh\Desktop\os-lab\my-repo\Management-Sample-App\Doctors Office
 C:\Users\ParsRayaneh\Desktop\os-lab\my-repo\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.AboutUs.resources
 C:\Users\ParsRayaneh\Desktop\os-lab\my-repo\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\bin\Debug\Database1.mdf
 C:\Users\ParsRayaneh\Desktop\os-lab\my-repo\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\bin\Debug\Database1_log.ldf
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\bin\Debug\Database1.mdf
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\bin\Debug\Database1_log.ldf
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\bin\Debug\Doctors Office Management System.exe.config
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\bin\Debug\Doctors Office Management System.exe
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\bin\Debug\Doctors Office Management System.pdb
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors Office Management System.csproj.AssemblyReference.cache
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors Office Management System.csproj.SuggestedBindingRedirects.cache
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.AboutUs.resources
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.AdminDashboard.resources
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.Login.resources
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.Properties.Resources.resources
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors Office Management System.csproj.GenerateResource.cache
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors Office Management System.csproj.CoreCompileInputs.cache
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors Office Management System.exe
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors Office Management System.pdb
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.DoctorDashboard.resources
+D:\SUTECH\AminProject\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.NewMedicalRecord.resources
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\bin\Debug\Database1.mdf
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\bin\Debug\Database1_log.ldf
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\bin\Debug\Doctors Office Management System.exe.config
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\bin\Debug\Doctors Office Management System.exe
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\bin\Debug\Doctors Office Management System.pdb
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors Office Management System.csprojAssemblyReference.cache
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.AboutUs.resources
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.AdminDashboard.resources
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.DoctorDashboard.resources
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.Login.resources
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.MedicalRecord.resources
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.NewMedicalRecord.resources
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.Prescription.resources
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.Properties.Resources.resources
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors Office Management System.csproj.GenerateResource.cache
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors Office Management System.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors Office Management System.exe
+C:\Users\Amin\Desktop\new-project\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors Office Management System.pdb

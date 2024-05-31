@@ -1,0 +1,10 @@
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\file-read-write\file-read-write\file-read-write\bin\Debug\file-read-write.exe.config
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\file-read-write\file-read-write\file-read-write\bin\Debug\file-read-write.exe
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\file-read-write\file-read-write\file-read-write\bin\Debug\file-read-write.pdb
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\file-read-write\file-read-write\file-read-write\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\file-read-write\file-read-write\file-read-write\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\file-read-write\file-read-write\file-read-write\obj\Debug\file-read-write.csprojAssemblyReference.cache
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\file-read-write\file-read-write\file-read-write\obj\Debug\file-read-write.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\file-read-write\file-read-write\file-read-write\obj\Debug\file-read-write.csproj.CopyComplete
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\file-read-write\file-read-write\file-read-write\obj\Debug\file-read-write.exe
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\file-read-write\file-read-write\file-read-write\obj\Debug\file-read-write.pdb

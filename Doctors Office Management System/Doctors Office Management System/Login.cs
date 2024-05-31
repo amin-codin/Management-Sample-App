@@ -20,6 +20,25 @@ namespace Doctors_Office_Management_System
 
         private void Button1_Click(object sender, EventArgs e)
         {
+            String username = textBox1.Text;
+            String password = textBox2.Text;
+            String query = "";
+            /*
+            if (username == "admin")
+            {
+                query = "Select U.password From Users as U Where U.username = 'admin';";
+            }
+            else
+            {
+                query = "Select U.password From Users as U Where U.username = '" + username + "';";
+            }
+            */
+            AdminDashboard a = new AdminDashboard();
+            a.ShowDialog();
+            DoctorDashboard d = new DoctorDashboard();
+           // d.ShowDialog();
+            NewMedicalRecord newMedicalRecord = new NewMedicalRecord();
+            //newMedicalRecord.ShowDialog();
 
         }
 
@@ -43,6 +62,11 @@ namespace Doctors_Office_Management_System
             {
                 MessageBox.Show("Error: " + ex.Message);
             }
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

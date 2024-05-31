@@ -1,0 +1,7 @@
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\threads\download-manager\download-manager\bin\Debug\download-manager.exe.config
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\threads\download-manager\download-manager\bin\Debug\download-manager.exe
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\threads\download-manager\download-manager\bin\Debug\download-manager.pdb
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\threads\download-manager\download-manager\obj\Debug\download-manager.csprojAssemblyReference.cache
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\threads\download-manager\download-manager\obj\Debug\download-manager.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\threads\download-manager\download-manager\obj\Debug\download-manager.exe
+C:\Users\Amin\Desktop\os-lab\os-lab\my-repo\Management-Sample-App\Exercises\threads\download-manager\download-manager\obj\Debug\download-manager.pdb
