@@ -16,5 +16,14 @@ namespace Doctors_Office_Management_System
         {
             InitializeComponent();
         }
+
+        private void AboutUs_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (e.CloseReason == CloseReason.UserClosing)
+            {
+                e.Cancel = true;
+                Hide();
+                }
+            }
     }
 }

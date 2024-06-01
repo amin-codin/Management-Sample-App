@@ -23,9 +23,9 @@ namespace Doctors_Office_Management_System
 
         }
 
+        AboutUs aboutUs = new AboutUs();
         private void Button2_Click(object sender, EventArgs e)
         {
-            AboutUs aboutUs = new AboutUs();
             aboutUs.Show();
         }
 
