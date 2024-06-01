@@ -8,3 +8,4 @@ C:\Users\ParsRayaneh\Desktop\os-lab\my-repo\Management-Sample-App\Doctors Office
 C:\Users\ParsRayaneh\Desktop\os-lab\my-repo\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors Office Management System.exe
 C:\Users\ParsRayaneh\Desktop\os-lab\my-repo\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors Office Management System.pdb
 C:\Users\ParsRayaneh\Desktop\os-lab\my-repo\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.Login.resources
+C:\Users\ParsRayaneh\Desktop\os-lab\my-repo\Management-Sample-App\Doctors Office Management System\Doctors Office Management System\obj\Debug\Doctors_Office_Management_System.AboutUs.resources
